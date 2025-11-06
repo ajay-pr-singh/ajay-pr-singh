@@ -187,6 +187,7 @@ Alongside my architecture responsibilities, I’m a **GenAI evangelist, author**
   </a>
 
 </p>
+
 ---
 
 ### 🌟 Quote I Live By  
