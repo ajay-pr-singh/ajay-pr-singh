@@ -140,34 +140,6 @@ Alongside my architecture responsibilities, I’m a **GenAI evangelist, author**
 
 ---
 
-### 🚀 Tools & Platforms  
-
-<p align="left">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/MuleSoft-00A6E6?style=for-the-badge&logo=mulesoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/TIBCO-003366?style=for-the-badge&logo=tibco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-FFD343?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArgoCD-F05032?style=for-the-badge&logo=argo&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitOps-00B2A9?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpsGenie-0052CC?style=for-the-badge&logo=atlassian&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bitbucket-0747A6?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-<img src="https://img.shields.io/badge/AzureDevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Crew_AI-00C4B3?style=for-the-badge&logo=ai&logoColor=white" alt="Crew AI"/>
-<img src="https://img.shields.io/badge/IBM_Watsonx-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-00C4B3?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
-</p>
-
----
-
 ### ✍️ Writing & Thought Leadership  
 
 📘 Topics I Explore:  
